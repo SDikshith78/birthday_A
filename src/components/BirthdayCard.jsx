@@ -57,7 +57,7 @@ const BirthdayCard = () => {
           <img
             src="/assets/pic.png"
             alt="Ananya"
-            className="rounded-full shadow-xl w-48 h-48 md:w-72 md:h-72 object-cover mx-auto border-8 border-yellow-400"
+            className="rounded-full shadow-xl w-48 h-48 md:w-72 md:h-72 object-cover mx-auto border-8 border-black"
           />
         </motion.div>
       </div>
