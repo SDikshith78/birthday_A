@@ -58,7 +58,7 @@ Now im sleepy😪😴...
               {/* Image Top (mobile) / Left (desktop) */}
               <div className="w-full md:w-1/2 h-48 md:h-full bg-pink-200 flex items-center justify-center p-4">
                 <img
-                  src="../../public/assets/pic.png"
+                  src="/assets/pic.png"
                   alt="Ananya"
                   className="w-32 h-32 md:w-48 md:h-48 rounded-full border-4 border-pink-500 shadow-lg"
                 />

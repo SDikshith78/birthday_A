@@ -35,7 +35,7 @@ const AgeTimer = () => {
     <div className="text-center mt-6 bg-white/80 p-2 rounded-xl shadow-lg w-full max-w-md mx-auto border-2 border-pink-300">
       <div className="flex justify-center mb-3">
         <img
-          src="../../public/assets/shinchan.gif" 
+          src="/assets/shinchan.gif" 
           alt="Shin Chan"
           className="w-24 h-24 "
         />
